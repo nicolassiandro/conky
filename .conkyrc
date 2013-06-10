@@ -1,11 +1,13 @@
 ###############################################################################
-#  	conkyrc
+#  	.conkyrc
 #
 #  	author  : Alberto Nicolás Siandro
 #	version : 1.0
 #	copyrights Nicolas Siandro 2012
 #
-#	This file should be in /home/<username>
+#	This file should be in ~/<username>
+#
+#	This file is distributed under the terms of the GNU General Public License. See the COPYING file for details.
 #
 ###############################################################################
 
